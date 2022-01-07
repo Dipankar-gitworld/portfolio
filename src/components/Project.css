@@ -1,0 +1,54 @@
+#project{
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(2,45%);
+    gap: 100px;
+    margin-top: 50px;
+    
+    
+}
+
+#project >div{
+    
+    text-align: center;
+}
+#project img{
+    width: 600px;
+    height: 400px;
+    
+    margin-right: auto;
+    display: block;
+}
+#project p{
+    background-color: #ECDBBA;
+    color: #191919;
+}
+
+.websiteInfo{
+    width: 400px;
+    height: 400px;
+    
+    margin-left: auto;
+    margin-top: 130px;
+    
+}
+
+.websiteInfo p{
+    font-size: 18px;
+}
+
+.websiteInfo h2{
+    background-color: #ECDBBA;
+    color: #191919;
+    
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #C84B31;
+    color: #ECDBBA;
+    margin-right: 10px;
+    border: none;
+}

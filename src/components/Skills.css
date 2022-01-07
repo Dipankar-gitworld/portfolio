@@ -1,0 +1,41 @@
+.skillsIcons{
+    width: 920px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display:grid;
+    grid-template-columns: repeat(6,15%);
+    gap: 18px;
+    background-color: #ECDBBA;
+    margin-top: 50px;
+    padding-top: 30px;
+    color: #191919;
+}
+
+.skillsIcons img{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.proficienciesIcons{
+    width: 400px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    background-color: #ECDBBA;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.proficienciesIcons img{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}

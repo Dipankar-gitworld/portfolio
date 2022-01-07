@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  
+}
+
+input{
+  height: 35px;
+  margin-right: 10px;
+}
+
+select{
+  height: 35px;
+  margin-right: 10px;
+}
+
+label{
+  margin-right: 10px;
+  margin-left: 20px;
+}

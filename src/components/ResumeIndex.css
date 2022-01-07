@@ -1,0 +1,35 @@
+.aboutDiv{
+    height: 880px;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+
+.skillsDiv{
+    text-align: center;
+    color: white;
+    background-color: #C84B31;
+    padding: 20px;
+}
+
+#navbarDiv{
+    padding: 1px;
+    width: 100%;
+    position:-webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+
+#projectDiv{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    
+}
+
+#contactDiv{
+    text-align: center;
+    color: white;
+    background-color: #C84B31;
+    padding: 20px;
+}

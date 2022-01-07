@@ -1,0 +1,34 @@
+#mainContainer {
+    border: 1px solid ;
+    border-left: none;
+    border-right: none;
+    padding: 10px;
+    background-color: #191919;
+    
+    
+    
+}
+
+#mainContainer >div{
+    
+    width: 510px;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+h3{
+    width: 100px;
+    
+    
+}
+
+.link{
+    color: #ECDBBA;
+    text-decoration: none;
+
+}
+

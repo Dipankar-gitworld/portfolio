@@ -1,0 +1,20 @@
+.mainAboutContainer{
+    
+    
+    
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.mainAboutContainer img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.mainAboutContainer p{
+    background-color: #ECDBBA;
+    color: #191919;
+}
+
